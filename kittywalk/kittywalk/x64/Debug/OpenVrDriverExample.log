@@ -1,6 +1,0 @@
-﻿  ControllerDriver.cpp
-  DeviceFactory.cpp
-  DeviceProvider.cpp
-  Generating Code...
-     Creating library C:\Users\maevers\Documents\coding\vrshoe driver example\OpenVrDriverExample\x64\Debug\OpenVrDriverExample.lib and object C:\Users\maevers\Documents\coding\vrshoe driver example\OpenVrDriverExample\x64\Debug\OpenVrDriverExample.exp
-  OpenVrDriverExample.vcxproj -> C:\Users\maevers\Documents\coding\vrshoe driver example\OpenVrDriverExample\x64\Debug\OpenVrDriverExample.dll
